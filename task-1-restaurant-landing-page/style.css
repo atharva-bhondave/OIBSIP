@@ -107,7 +107,7 @@ header .navBar li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.37)), url(image/para-02.jpg);
+    background: url(image/para-02.jpg);
 }
 
 #banner .content {
